@@ -15,7 +15,6 @@ Fall into one of the 4 Great Houses of Hogwarts and win a GitHub Badge to showca
 
 ## How to add to Github Profile ❔
 
-![image](C:\Users\Aabha\Videos\Captures)
 Once you are sorted in a house, click on the badge to copy it. 
 
 - Go to your Github and create a new repository with the same name as your profile name 
