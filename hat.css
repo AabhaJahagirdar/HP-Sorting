@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'HP';
+    src: url('./fonts/HP.ttf') format('truetype');
+}
+:root {
+    --hat-color:#a77916;
+    --hat-eye-color:#010101;
+}
+#hat-main {
+    margin-top: 15vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    height: 20rem;
+    display: none;
+    text-shadow: 12px 12px 30px 30px rgba(168, 47, 47, 0.199);
+}
+#thoughts {
+    font-size: 3rem;
+    color:white;
+    margin-top: 30px;
+    font-family: 'HP',sans-serif;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
+    width: 30em;
+    overflow: hidden;
+}
+@keyframes type{ 
+    from { width: 0; } 
+    to { width: 100%;}
+  } 
+#hat-eye-left {
+    opacity: 0;
+}
+
+#hat-eye-right {
+    opacity: 0;
+}
+
+#hat-mouth {
+    opacity: 0;
+}
+
+
+@keyframes initialize-hat {
+    from {fill: var(--hat-color);opacity: 0 }
+    to {fill:  var(--hat-color);opacity: 1}
+}
+
+@keyframes hat-floating {
+	0% {
+		text-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.767);
+		transform: translateY(0px);
+	}
+	50% {
+		text-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
+		transform: translateY(-20px);
+	}
+	100% {
+		text-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.925);
+		transform: translateY(0px);
+	}
+}
+
+@keyframes initialize-hat-eyes {
+    from {opacity: 0}
+    to {fill: var(--hat-eye-color);opacity: 1;}
+}
+@keyframes initialize-hat-mouth {
+    from {fill:#000;opacity: 0}
+    to {fill:#000;opacity: 1;}
+}
+
+@media only screen and (max-width: 500px) {
+
+    #thoughts {
+        align-items: center;
+        width: 80%;
+        font-size: 2rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    #hat-main {
+        margin-top: 10vh;
+    width: 12rem;
+    height: 12rem;
+  }
+}
+ 

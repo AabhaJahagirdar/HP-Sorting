@@ -1,0 +1,42 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "shridhar-coder",
+      "name": "shridhar-coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59767163?v=4",
+      "profile": "https://github.com/shridhar-coder",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Devavrat8492",
+      "name": "Devavrat Sarpotdar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74722351?v=4",
+      "profile": "https://github.com/Devavrat8492",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "prafulla-codes",
+      "name": "Prafulla Raichurkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36433104?v=4",
+      "profile": "https://prafulla.tech",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "sorting-hat",
+  "projectOwner": "prafulla-codes",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
