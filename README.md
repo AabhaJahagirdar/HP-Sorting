@@ -1,4 +1,4 @@
-<p align="center"><a href="https://gh-sorting-hat.netlify.app/" target='_blank'><img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/gh_cover.png" width="60%"></a></p>
+<p align="center"><a href="https://gh-sorting-hat.netlify.app/" target='_blank'><img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/main/pics/gh_cover.png" width="60%"></a></p>
 
 <p align="center">
 🧹 Want to know which Hogwarts House would you fall into?
@@ -8,10 +8,10 @@ Fall into one of the 4 Great Houses of Hogwarts and win a GitHub Badge to showca
 
 ## Badges 🛡️
 
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/gryffindor_badge.gif" width="200px"></img>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/slytherin_badge.gif" width="200px"></img>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/hufflepuff_badge.gif" width="200px"></img>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px"></img>
+<img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/main/pics/gryffindor_badge.gif" width="200px"></img>
+<img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/main/pics/slytherin_badge.gif" width="200px"></img>
+<img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/main/pics/hufflepuff_badge.gif" width="200px"></img>
+<img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/main/pics/ravenclaw_badge.gif" width="200px"></img>
 
 ## How to add to Github Profile ❔
 
